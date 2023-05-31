@@ -10,17 +10,29 @@ sections:
     content:
       title: Biography
       username: admin
-  - block: accomplishments
+   block: experience
+    content:
+      title: Experience
+      date_format: Jan 2006
+      items:
+        - title: Vulnerability Identification Research Asistant
+          company: 'Advisor: Lec. Yinhao Xiao at Guangdong University of Finance and Economics'
+          date_start: '2022-03-01'
+          date_end: ''
+          description: |2-
+              - Researched automated vulnerability identification schemes. In the research group I was mainly responsible
+              for replication and comparison of similar papers as well as writing processing programs to extract data such
+              as AST, CFG, and PDG from source code according to the needs of the group.
+              - Now one paper accepted by Future Generation Computer Systems, and one is under review.
+                – (Accepted) DeepVulSeeker: A Novel Vulnerability Identification Framework via Code Graph Structure
+              and Pre-training Mechanism
+                – (Under Review) JFinder: A Novel Architecture for Java Vulnerability Identification Based Quad Self-
+              Attention and Pre-training Mechanism
+  - block: awards
     content:
       title: 'Honors and Awards'
       subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://ccpc.io/
           date_end: ''
