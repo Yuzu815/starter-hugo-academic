@@ -38,7 +38,7 @@ sections:
       items:
         - date_end: ''
           date_start: '2022-11-01'
-          description: '<img data-src="https://resume.oi-liu.com/ICPC.png" alt="ICPC" style="height: 60px;" class="lazyload">'
+          description: '<img height="100" src="/ICPC.png" alt="ICPC">'
           organization: ICPC
           organization_url: https://icpc.global
           title: Cu Medal • International Collegiate Programming Contest, Xi’an Site
