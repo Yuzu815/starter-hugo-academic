@@ -26,16 +26,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Distributed Storage
+  - Federated Learning 
+  - Privacy Computing
 
 # Education to show in About widget
 education:
   courses:
     - course: Undergraduate in Computer Science and Technology
       institution: Guangdong University of Finance & Economics
-      year: 2020
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
