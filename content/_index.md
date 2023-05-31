@@ -36,36 +36,31 @@ sections:
       subtitle:
       date_format: Jan 2006
       items:
-        - certificate_url: https://ccpc.io/
-          date_end: ''
+        - date_end: ''
           date_start: '2022-06-01'
           description: ''
           organization: ICPC
           organization_url: https://ccpc.io/
           title: Ag Medal • China Collegiate Programming Contest, Guangdong Province
-        - certificate_url: https://icpc.global
-          date_end: ''
+        - date_end: ''
           date_start: '2022-11-01'
-          description: ''
+          description: '<img data-src="/media/ICPC.png" alt="Coursera" style="height: 60px;" class="lazyload">'
           organization: ICPC
           organization_url: https://icpc.global
           title: Cu Medal • International Collegiate Programming Contest, Xi’an Site
-        - certificate_url: https://ccpc.io/
-          date_end: ''
+        - date_end: ''
           date_start: '2021-11-01'
           description: ''
           organization: CCPC
           organization_url: https://ccpc.io/
           title: Cu Medal • China Collegiate Programming Contest, Guangzhou Site
-        - certificate_url: https://gplt.patest.cn/
-          date_end: ''
+        - date_end: ''
           date_start: '2021-11-01'
           description: ''
           organization: GPLT
           organization_url: https://gplt.patest.cn/
           title: Individual National Second Prize, Team Silver Prize • GPLT
-        - certificate_url: https://dasai.lanqiao.cn/
-          date_end: ''
+        - date_end: ''
           date_start: '2021-06-01'
           description: ''
           organization: LanQiao

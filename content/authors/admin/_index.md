@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Undergraduate in Computer Science and Technology
+    - course: B.Eng in Computer Science and Technology
       institution: Guangdong University of Finance & Economics
       year: 2024
 
