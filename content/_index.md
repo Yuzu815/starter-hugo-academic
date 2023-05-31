@@ -10,7 +10,8 @@ sections:
     content:
       title: Biography
       username: admin
-   block: experience
+  - block: experience
+    id: experience
     content:
       title: Experience
       date_format: Jan 2006
@@ -28,8 +29,8 @@ sections:
               and Pre-training Mechanism
               * (Under Review) JFinder: A Novel Architecture for Java Vulnerability Identification Based Quad Self-
               Attention and Pre-training Mechanism
-              
-  - block: awards
+  - block: accomplishments
+    id: awards
     content:
       title: 'Honors and Awards'
       subtitle:
