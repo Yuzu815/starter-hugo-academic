@@ -20,14 +20,15 @@ sections:
           date_start: '2022-03-01'
           date_end: ''
           description: |2-
-              - Researched automated vulnerability identification schemes. In the research group I was mainly responsible
-              for replication and comparison of similar papers as well as writing processing programs to extract data such
-              as AST, CFG, and PDG from source code according to the needs of the group.
-              - Now one paper accepted by Future Generation Computer Systems, and one is under review.
-                – (Accepted) DeepVulSeeker: A Novel Vulnerability Identification Framework via Code Graph Structure
+              Researched automated vulnerability identification schemes. In the research group I was mainly responsible for replication and comparison of similar papers as well as writing processing programs to extract data such as AST, CFG, and PDG from source code according to the needs of the group.
+
+              Now one paper accepted by Future Generation Computer Systems, and one is under review: 
+
+              * (Accepted) DeepVulSeeker: A Novel Vulnerability Identification Framework via Code Graph Structure
               and Pre-training Mechanism
-                – (Under Review) JFinder: A Novel Architecture for Java Vulnerability Identification Based Quad Self-
+              * (Under Review) JFinder: A Novel Architecture for Java Vulnerability Identification Based Quad Self-
               Attention and Pre-training Mechanism
+              
   - block: awards
     content:
       title: 'Honors and Awards'
