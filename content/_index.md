@@ -37,17 +37,17 @@ sections:
       date_format: Jan 2006
       items:
         - date_end: ''
-          date_start: '2022-06-01'
-          description: ''
-          organization: ICPC
-          organization_url: https://ccpc.io/
-          title: Ag Medal • China Collegiate Programming Contest, Guangdong Province
-        - date_end: ''
           date_start: '2022-11-01'
-          description: '<img data-src="/media/ICPC.png" alt="Coursera" style="height: 60px;" class="lazyload">'
+          description: '<img data-src="/ICPC.png" alt="ICPC" style="height: 60px;" class="lazyload">'
           organization: ICPC
           organization_url: https://icpc.global
           title: Cu Medal • International Collegiate Programming Contest, Xi’an Site
+        - date_end: ''
+          date_start: '2022-06-01'
+          description: ''
+          organization: CCPC
+          organization_url: https://ccpc.io/
+          title: Ag Medal • China Collegiate Programming Contest, Guangdong Province
         - date_end: ''
           date_start: '2021-11-01'
           description: ''
